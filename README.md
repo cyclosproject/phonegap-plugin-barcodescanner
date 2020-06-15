@@ -1,6 +1,8 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
 
+**Use the 8.1.0_cyclos branch because master refers to a dev version**
+
 **IMPORTANT**
 This plugin depends on a library packed as an aar file. If you need to patch the library, please clone this repo 
 [https://github.com/cyclosproject/barcodescanner-lib-aar], generate the new version an update this project with the generated aar file.
