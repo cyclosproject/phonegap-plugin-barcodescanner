@@ -1,6 +1,10 @@
 # PhoneGap Plugin BarcodeScanner
 ================================
 
+**IMPORTANT**
+This plugin depends on a library packed as an aar file. If you need to patch the library, please clone this repo 
+[https://github.com/cyclosproject/barcodescanner-lib-aar], generate the new version an update this project with the generated aar file.
+
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
 
 Cross-platform BarcodeScanner for Cordova / PhoneGap.
